@@ -20,7 +20,7 @@ title                    : "Electric-Roleplay"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sev / John"
-description              : "An amazing website."
+description              : "Electric-Roleplay is a IRL FiveM based server."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
